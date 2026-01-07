@@ -2,6 +2,6 @@
 #define PCEAS_VERSION_H
 
 #define NES_ASM_VERSION ("NES Assembler (@VERSION@, " __DATE__ ")")
-#define PCE_ASM_VERSION ("PC Engine Assembler @VERSION@, " __DATE__ ")")
+#define PCE_ASM_VERSION ("PC Engine Assembler (@VERSION@, " __DATE__ ")")
 
 #endif /* PCEAS_VERSION_H */
