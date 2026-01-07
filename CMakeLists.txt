@@ -26,19 +26,28 @@ set( pceas_SRC
     code.c
     command.c
     crc.c
+    defs.h
     expr.c
+    expr.h
     func.c
     input.c
+    inst.h
     macro.c
     main.c
     map.c
     mml.c
     nes.c
+    nes.h
     output.c
+    overlay.h
     pce.c
     pcx.c
     proc.c
+    protos.h
     symbol.c
+    vars.h
+    version.h
+    version.h.in
 )
 
 configure_file(
